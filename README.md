@@ -91,13 +91,13 @@ De igual forma, se adjuntan capturas:
 ![POST /products](./contrato-api-rest/post-products.png)
 
 **GET /products/{id}**
-![GET /products/{id}](./contrato-api-rest/get-products-id.pngpng)
+![GET /products/{id}](./contrato-api-rest/get-products-id.png)
 
 **PUT /products/{id}**
 ![PUT /products/{id}](./contrato-api-rest/put-products-id.png)
 
 **DELETE /products/{id}**
-![DELETE /products/{id}](./contrato-api-rest/delete-products-id.png.png)
+![DELETE /products/{id}](./contrato-api-rest/delete-products-id.png)
 
 **GET /favorites**
 ![GET /favorites](./contrato-api-rest/get-favorites.png)
