@@ -1,6 +1,20 @@
 # Proyecto Final - Hito 1
 
-Diseño y prototipo del proyecto
+En el primer hito, hemos realizado el diseño y prototipo inicial de nuestro proyecto, un PlayMarke diseñado para realizar clases particulares en vivo, de uno a uno, abarcando diferentes materias y edades. En nuestro sistema, los usuarios se podrán  registrar, contratar clases o ofrecer sus servicios como profesores, incluyendo imágenes y descripciones de lo que ofrecen. Además, los usuarios que contraten clases podrán dejar comentarios y calificar el servicio, creando así una red segura para toda la comunidad.
+
+Los puntos que hemos completado en este primer hito son los siguientes:
+
+1. Generar la maqueta de la interfaz gráfica que utilizaremos en la plataforma.
+
+2. Definir la navegación entre las vistas privadas y públicas de la plataforma.
+
+3. Identificar y listar las dependencias tanto del frontend como del backend del proyecto, incluyendo las dependencias de producción y las de desarrollo.
+
+4. Diseñamos la base de datos teniendo en cuenta todos los detalles necesarios para asegurar un sitio ágil y potente.
+
+5. Diseñamos el contrato de datos de la API REST, incluyendo toda la información necesaria para el correcto funcionamiento de nuestro sistema.
+
+Estos avances nos permiten sentar las bases sólidas para el desarrollo de nuestro proyecto y nos acercan cada vez más a nuestra visión de brindar un entorno seguro y eficiente para las clases particulares en vivo.
 
 
 ## Integrantes
